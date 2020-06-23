@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'DIRECTIVE';
+  arr =[1,2,3,4]
+
+
+  colorParam1 = 'violet'
+
+  larr=[]
 }
+
+
